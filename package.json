@@ -1,0 +1,18 @@
+{
+  "name": "sdk_demo",
+  "version": "1.0.0",
+  "description": "sample demo sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nirav",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirav-infostretch/AuthSdk.git"
+  }
+}
